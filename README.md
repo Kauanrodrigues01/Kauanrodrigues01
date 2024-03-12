@@ -1,5 +1,6 @@
 ### Óla, eu sou o Kauan Rodrigues 🤙
 
+Sou estudante do <strong>2º ano do Curso Desenvolvimento de Sistemas</strong> na EEEP Adolfo Ferreira de Souza
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kauan_mrl/)
 
