@@ -15,9 +15,9 @@ Sou estudante do <strong>2º ano do Curso Desenvolvimento de Sistemas</strong> n
 ## Frameworks que estou aprendendo
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-## Repositório com aplicações em Python
+## Aplicações em Python
 
-- [Primeira aplicação com python](https://github.com/Kauanrodrigues01/Aprendendo-python-orientado-a-objetos/tree/main/python%20primeira%20aplica%C3%A7%C3%A3o)
+- [Primeira aplicação com python]([https://github.com/Kauanrodrigues01/Aprendendo-python-orientado-a-objetos/tree/main/python%20primeira%20aplica%C3%A7%C3%A3o](https://github.com/Kauanrodrigues01/Aprendendo-python-orientado-a-objetos/tree/main/Primeira%20aplica%C3%A7%C3%A3o))
 
 ## Projetos Criados em HTML5, CSS3 e Bootstrap 5
 
