@@ -17,7 +17,7 @@ Sou estudante do <strong>2º ano do Curso Desenvolvimento de Sistemas</strong> n
 
 ## Aplicações em Python
 
-- [Primeira aplicação com python]([https://github.com/Kauanrodrigues01/Aprendendo-python-orientado-a-objetos/tree/main/python%20primeira%20aplica%C3%A7%C3%A3o](https://github.com/Kauanrodrigues01/Aprendendo-python-orientado-a-objetos/tree/main/Primeira%20aplica%C3%A7%C3%A3o))
+- [Primeira aplicação com python](https://github.com/Kauanrodrigues01/Aprendendo-python-orientado-a-objetos/blob/main/Primeira%20aplica%C3%A7%C3%A3o/app.py)
 
 ## Projetos Criados em HTML5, CSS3 e Bootstrap 5
 
