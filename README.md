@@ -6,7 +6,7 @@ Sou estudante do <strong>2º ano do Curso Desenvolvimento de Sistemas</strong> n
 
 ![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauanrodrigues01&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauanrodrigues01&size_weight=0.5&count_weight=0.5)
 
 ## Tecnologias que estou aprendendo
 
