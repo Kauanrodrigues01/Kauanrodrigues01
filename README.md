@@ -24,4 +24,5 @@ Sou estudante do <strong>2º ano do Curso Desenvolvimento de Sistemas</strong> n
 ## Projetos Criados em HTML5, CSS3 e Bootstrap 5
 
 - [Landing page startup](https://kauanrodrigues01.github.io/Landing_page_Expedite/)
+- [Trabalho barbearia](https://github.com/Kauanrodrigues01/trabalho-barbearia-1-BM)
 - [Projeto Cordel](https://kauanrodrigues01.github.io/projeto-cordel/)
