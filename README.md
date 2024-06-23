@@ -2,7 +2,7 @@
 
 Sou estudante do <strong>2º ano do Curso Desenvolvimento de Sistemas</strong> na EEEP Adolfo Ferreira de Souza
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kauan_mrl/)
+<a href="https://www.instagram.com/kauan_mrl/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
 ![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauanrodrigues01&show_icons=true&theme=dracula)
 
