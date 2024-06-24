@@ -26,12 +26,11 @@ Sou estudante do <strong>2º ano do Curso Desenvolvimento de Sistemas</strong> n
 
 ## Aplicações em Python 🐍 
 
-- 📚 [Python Avançando em OO e consumindo API](https://github.com/Kauanrodrigues01/Python-orientado-a-objetos-e-APIs/tree/main/3-Python-consumindo-API)
-- 📘 [Python Orientado a Objetos](https://github.com/Kauanrodrigues01/Python-orientado-a-objetos-e-APIs/tree/main/2-Python-orienta%C3%A7%C3%A3o-a-objetos)
-- 📝 [Primeira aplicação com python](https://github.com/Kauanrodrigues01/Aprendendo-python-orientado-a-objetos/blob/main/Primeira%20aplica%C3%A7%C3%A3o/app.py)
-- 📊 [Leitura de planilhas com python](https://github.com/Kauanrodrigues01/Python-orientado-a-objetos-e-APIs/tree/main/Planilhas_no_python)
+- 📚 [Python Avançando em OO e consumindo API](https://github.com/Kauanrodrigues01/Python-orientado-a-objetos-e-APIs/tree/main/3-%20Python%20consumindo%20API)
+- 📘 [Python Orientado a Objetos](https://github.com/Kauanrodrigues01/Python-orientado-a-objetos-e-APIs/tree/main/2-%20Python%20orienta%C3%A7%C3%A3o%20a%20objetos)
+- 📝 [Primeira aplicação com python](https://github.com/Kauanrodrigues01/Python-orientado-a-objetos-e-APIs/tree/main/1-%20Python%20crie%20suas%20primeiras%20aplica%C3%A7%C3%B5es)
+- 📊 [Leitura de planilhas com python](https://github.com/Kauanrodrigues01/Python-orientado-a-objetos-e-APIs/tree/main/Planilhas%20no%20python)
 
 ## Projetos Criados em HTML5, CSS3 e Bootstrap 5 🖥️
 
-- 🚀 [Landing page startup](https://kauanrodrigues01.github.io/Landing_page_Expedite/)
-- 💈 [Trabalho barbearia](https://kauanrodrigues01.github.io/trabalho-barbearia-1-BM/)
+- 🚀 [Landing page startup](https://kauanrodrigues01.github.io/Landing-page-Expedite/)
