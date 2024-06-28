@@ -33,4 +33,5 @@ Sou estudante do <strong>2º ano do Curso Desenvolvimento de Sistemas</strong> n
 
 ## Projetos Criados em HTML5, CSS3 e Bootstrap 5 🖥️
 
-- 🚀 [Landing page startup](https://kauanrodrigues01.github.io/Landing-page-Expedite/)
+- 🚀 [Projeto WaveCast - usando Grid](https://kauanrodrigues01.github.io/Grid-construindo-layouts/)
+- 🚀 [Projeto AluraPlay - usando Flexbox](https://kauanrodrigues01.github.io/Flexbox-e-layaouts-responsivos/)
