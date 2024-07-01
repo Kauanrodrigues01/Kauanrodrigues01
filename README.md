@@ -31,5 +31,8 @@ Sou estudante do <strong>2º ano do Curso Desenvolvimento de Sistemas</strong> n
 
 ## Projetos Criados em HTML5, CSS3 e Bootstrap 5 🖥️
 
+- 🚀 [Todos os projetos em um link](https://kauanrodrigues01.github.io/Projetos-cursos-CSS/)
+- 🚀 [Projeto  AluraBooks - mobile-first](https://kauanrodrigues01.github.io/Responsivade-com-Mobile-First/)
+- 🚀 [Projeto Culturama - praticando Grid e Flexbox](https://kauanrodrigues01.github.io/Praticando-Grid-e-Flexbox/)
 - 🚀 [Projeto WaveCast - usando Grid](https://kauanrodrigues01.github.io/Grid-construindo-layouts/)
 - 🚀 [Projeto AluraPlay - usando Flexbox](https://kauanrodrigues01.github.io/Flexbox-e-layaouts-responsivos/)
