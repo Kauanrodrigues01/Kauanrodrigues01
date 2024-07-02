@@ -13,9 +13,7 @@ Sou estudante do <strong>2º ano do Curso Desenvolvimento de Sistemas</strong> n
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <br>
-- ![Top Langs](https://github-readme-stats.vercel.app/api
-/top-langs/?username=Kauanrodrigues01&size_weight=0.5&
-count_weight=0.5)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauanrodrigues01&size_weigh=0.5&count_weight=0.5)
 
 ## Tecnologias que estou aprendendo 👨‍💻
 
