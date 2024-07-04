@@ -14,7 +14,7 @@ Sou estudante do <strong>2º ano do Curso Desenvolvimento de Sistemas</strong> n
 </div>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauanrodrigues01&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauanrodrigues01&exclude_repo=Projetos-cursos-CSS,Responsivade-com-Mobile-First,Projeto-Culturama,Projeto-WaveCast,Projeto-AluraPlay,Landing-page-Expedite,anuraghazra.github.io)
 
 ## Tecnologias que estou aprendendo 👨‍💻
 
