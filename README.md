@@ -4,7 +4,7 @@ Sou estudante do <strong>2º ano do Curso Desenvolvimento de Sistemas</strong> n
 
 <a href="https://www.instagram.com/kauan_mrl/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
-![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauanrodrigues01&show_icons=true&theme=transparent)
+![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauanrodrigues01&show_icons=true&theme=radical)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> **Linguagens e ferramentas que estou aprendendo:** 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,python,mysql,git,github,vscode&perline=13)](#)
