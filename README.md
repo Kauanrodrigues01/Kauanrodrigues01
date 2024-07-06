@@ -7,7 +7,7 @@ Sou estudante do <strong>2º ano do Curso Desenvolvimento de Sistemas</strong> n
 ![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauanrodrigues01&show_icons=true&theme=radical)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> **Linguagens e ferramentas que estou aprendendo:** 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,python,mysql,git,github,vscode,html,html,css&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,python,mysql,git,github,vscode&perline=13)](#)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30"/> Frameworks que estou aprendendo
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind&perline=13)](#)
