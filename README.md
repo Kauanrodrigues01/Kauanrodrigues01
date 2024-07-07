@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Kauan+Rodrigues+Lima;Sou+estudante+do+2º+ano;do+Curso+de+Desenvolvimento+de+Sistemas;)](https://git.io/typing-svg)
 
 <a href="https://www.instagram.com/kauan_mrl/" target="_blank" style="margin:auto">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
-<a href="kauanrl09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="maido:kauanrl09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <div style="flex: 1; flex-direction: row; width: 100%" align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauanRodrigues01&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
