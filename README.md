@@ -32,3 +32,5 @@
 - 🌐 [Culturama - praticando Grid e Flexbox](https://kauanrodrigues01.github.io/Praticando-Grid-e-Flexbox/)
 - 🎧 [WaveCast - usando Grid](https://kauanrodrigues01.github.io/Grid-construindo-layouts/)
 - 🎥 [AluraPlay - usando Flexbox](https://kauanrodrigues01.github.io/Flexbox-e-layaouts-responsivos/)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=130&section=footer&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
