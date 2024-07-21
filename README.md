@@ -23,7 +23,7 @@
 - 📝 [Primeira aplicação com python](https://github.com/Kauanrodrigues01/Python-orientado-a-objetos-e-APIs/tree/main/1-%20Python%20crie%20suas%20primeiras%20aplica%C3%A7%C3%B5es)
 - 📊 [Leitura de planilhas com python](https://github.com/Kauanrodrigues01/Python-orientado-a-objetos-e-APIs/tree/main/Planilhas%20no%20python)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Projetos Criados em HTML5, CSS3 e Bootstrap e Javascript
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Projetos Criados em HTML, CSS e Javascript
 
 #### Javascript 
 - 🐉 [Devs & Dragons - iniciando em POO](https://devs-dragons-poo.vercel.app/)
