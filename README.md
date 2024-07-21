@@ -27,7 +27,7 @@
 
 #### Javascript 
 - 🐉 [Devs & Dragons - iniciando em POO](https://devs-dragons-poo.vercel.app/)
-- 
+- 💻 [VidFlow - consumindo API](https://javascript-consumindo-api-kauan-rodrigues-limas-projects.vercel.app/)
 - 🗣️ [Jogo de reconhecimento de voz usando JS](https://reconhecimento-de-voz-javascript.vercel.app/)
 - 📝 [Fokus - lista de taferas usando localStorage no JS](https://fokus-projectjs.vercel.app/)
 - ✅️ [MoniBank - validação de formulário](https://validando-formularios-no-js.vercel.app/)
