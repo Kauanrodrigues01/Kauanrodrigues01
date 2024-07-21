@@ -25,9 +25,14 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Projetos Criados em HTML5, CSS3 e Bootstrap e Javascript
 
+#### Javascript 
+- 🐉 [Devs & Dragons - iniciando em POO](https://devs-dragons-poo.vercel.app/)
+- 
 - 🗣️ [Jogo de reconhecimento de voz usando JS](https://reconhecimento-de-voz-javascript.vercel.app/)
 - 📝 [Fokus - lista de taferas usando localStorage no JS](https://fokus-projectjs.vercel.app/)
--  ⬇ [Todos os projetos abaixo em um link](https://kauanrodrigues01.github.io/Projetos-cursos-CSS/)
+- ✅️ [MoniBank - validação de formulário](https://validando-formularios-no-js.vercel.app/)
+
+#### html e css
 - 📚 [AluraBooks - mobile-first](https://kauanrodrigues01.github.io/Responsivade-com-Mobile-First/)
 - 🌐 [Culturama - praticando Grid e Flexbox](https://kauanrodrigues01.github.io/Praticando-Grid-e-Flexbox/)
 - 🎧 [WaveCast - usando Grid](https://kauanrodrigues01.github.io/Grid-construindo-layouts/)
