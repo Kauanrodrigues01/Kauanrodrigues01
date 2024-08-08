@@ -18,7 +18,9 @@
 
 ## Aplicações em Python 🐍 
 
-- 📚 [Python Avançando em OO e consumindo API](https://github.com/Kauanrodrigues01/Python-orientado-a-objetos-e-APIs/tree/main/3-%20Python%20consumindo%20API)
+- 📱  [Agenda de contatos - usando MySQL](https://github.com/Kauanrodrigues01/inciando-em-python/tree/main/cfb%20python/programas%20usando%20bd/agenda(POO))
+- 📚 [Sistema de biblioteca - usando MySQL](https://github.com/Kauanrodrigues01/inciando-em-python/tree/main/cfb%20python/programas%20usando%20bd/biblioteca)
+- 📈 [Python Avançando em OO e consumindo API](https://github.com/Kauanrodrigues01/Python-orientado-a-objetos-e-APIs/tree/main/3-%20Python%20consumindo%20API)
 - 📘 [Python Orientado a Objetos](https://github.com/Kauanrodrigues01/Python-orientado-a-objetos-e-APIs/tree/main/2-%20Python%20orienta%C3%A7%C3%A3o%20a%20objetos)
 - 📝 [Primeira aplicação com python](https://github.com/Kauanrodrigues01/Python-orientado-a-objetos-e-APIs/tree/main/1-%20Python%20crie%20suas%20primeiras%20aplica%C3%A7%C3%B5es)
 - 📊 [Leitura de planilhas com python](https://github.com/Kauanrodrigues01/Python-orientado-a-objetos-e-APIs/tree/main/Planilhas%20no%20python)
