@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,python,mysql,git,github,vscode&perline=13)](#)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30"/> Frameworks que estou aprendendo
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=django,bootstrap,tailwind&perline=13)](#)
 
 ## Aplicações em Python 🐍 
 
