@@ -7,7 +7,7 @@
 
 <div style="flex: 1; flex-direction: row; width: 100%" align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauanRodrigues01&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauanrodrigues01&exclude_repo=Projetos-cursos-CSS,Projeto-Culturama,Projeto-WaveCast,Projeto-AluraPlay,Responsividade-com-Mobile-First,Python-cursos,OBI,validando-formularios-no-JS,Django-templates-e-boas-praticas,Django-banco-de-dados,Django-S3-crud&layout=compact&langs_count=7&theme=react"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauanrodrigues01&exclude_repo=Projetos-cursos-CSS,Projeto-Culturama,Projeto-WaveCast,Projeto-AluraPlay,Responsividade-com-Mobile-First,Python-cursos,OBI,validando-formularios-no-JS,Django-templates-e-boas-praticas,Django-Persistencia-Admin,Django-Formularios-Autentificacao-Alertas,Django-S3-crud&layout=compact&langs_count=7&theme=react"/>
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> **Linguagens e ferramentas que estou aprendendo:** 
