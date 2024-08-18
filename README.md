@@ -10,14 +10,18 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauanrodrigues01&exclude_repo=Projetos-cursos-CSS,Projeto-Culturama,Projeto-WaveCast,Projeto-AluraPlay,Responsividade-com-Mobile-First,Python-cursos,OBI,validando-formularios-no-JS,Django-S3-crud,Django-Formularios-Autenticacao-Alertas,Django-Persistencia-Admin,Django-Templates-Boas-Praticas&layout=compact&langs_count=7&theme=react"/>
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> **Linguagens e ferramentas que estou aprendendo:** 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> **Linguagens e Frameworks que estou aprendendo:** 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,python,mysql,git,github,vscode&perline=13)](#)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30"/> Frameworks que estou aprendendo
-[![My Skills](https://skillicons.dev/icons?i=django,bootstrap,tailwind&perline=13)](#)
+## **Back-end:**
+[![My Skills](https://skillicons.dev/icons?i=python,django,mysql&perline=13)](#)
+
+## **Front-end:**
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js&perline=13)](#)
 
 ## Aplicações em Python 🐍 
 
+- 🌌 [AluraSpace - aplicação usando Django](https://github.com/Kauanrodrigues01/Django-S3-crud)
 - 📱  [Agenda de contatos - usando MySQL](https://github.com/Kauanrodrigues01/inciando-em-python/tree/main/cfb%20python/programas%20usando%20bd/agenda(POO))
 - 📚 [Sistema de biblioteca - usando MySQL](https://github.com/Kauanrodrigues01/inciando-em-python/tree/main/cfb%20python/programas%20usando%20bd/biblioteca)
 - 📈 [Python Avançando em OO e consumindo API](https://github.com/Kauanrodrigues01/Python-orientado-a-objetos-e-APIs/tree/main/3-%20Python%20consumindo%20API)
