@@ -16,8 +16,10 @@
 
 ## Aplicações em Python 🐍 
 
+- ✏️ [Teacherhunt - API de plataforma de aulas particulares](https://github.com/Kauanrodrigues01/projeto-teacherhunt)
+- 📖 [API de uma biblioteca- API RESTful usando DRF](https://github.com/Kauanrodrigues01/Django-library-api)
 - 🌌 [AluraSpace - aplicação usando Django](https://github.com/Kauanrodrigues01/Django-S3-crud)
-- 📱  [Agenda de contatos - usando MySQL](https://github.com/Kauanrodrigues01/inciando-em-python/tree/main/cfb%20python/programas%20usando%20bd/agenda(POO))
+- 📱 [Agenda de contatos - usando MySQL](https://github.com/Kauanrodrigues01/inciando-em-python/tree/main/cfb%20python/programas%20usando%20bd/agenda(POO))
 - 📚 [Sistema de biblioteca - usando MySQL](https://github.com/Kauanrodrigues01/inciando-em-python/tree/main/cfb%20python/programas%20usando%20bd/biblioteca)
 - 📈 [Python Avançando em OO e consumindo API](https://github.com/Kauanrodrigues01/Python-orientado-a-objetos-e-APIs/tree/main/3-%20Python%20consumindo%20API)
 - 📘 [Python Orientado a Objetos](https://github.com/Kauanrodrigues01/Python-orientado-a-objetos-e-APIs/tree/main/2-%20Python%20orienta%C3%A7%C3%A3o%20a%20objetos)
