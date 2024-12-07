@@ -14,16 +14,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,django,mysql,html,css,sass,bootstrap,js&perline=13)](#)
 
-## Aplicações em Python 🐍 
+## Aplicações em Python e Django 🐍 
 
 - ✏️ [Teacherhunt - API de plataforma de aulas particulares](https://github.com/Kauanrodrigues01/projeto-teacherhunt)
+- 🏋️ [Gym-system - Sistema de gestão de alunos para academia](https://github.com/Kauanrodrigues01/gym-system)
+- 👨‍🍳 [Blog de receitas - aplicação Django](https://github.com/Kauanrodrigues01/blog-receitas-django-fullstack)
 - 📖 [API de uma biblioteca- API RESTful usando DRF](https://github.com/Kauanrodrigues01/Django-library-api)
 - 🌌 [AluraSpace - aplicação usando Django](https://github.com/Kauanrodrigues01/Django-S3-crud)
-- 📱 [Agenda de contatos - usando MySQL](https://github.com/Kauanrodrigues01/inciando-em-python/tree/main/cfb%20python/programas%20usando%20bd/agenda(POO))
-- 📚 [Sistema de biblioteca - usando MySQL](https://github.com/Kauanrodrigues01/inciando-em-python/tree/main/cfb%20python/programas%20usando%20bd/biblioteca)
-- 📈 [Python Avançando em OO e consumindo API](https://github.com/Kauanrodrigues01/Python-orientado-a-objetos-e-APIs/tree/main/3-%20Python%20consumindo%20API)
-- 📘 [Python Orientado a Objetos](https://github.com/Kauanrodrigues01/Python-orientado-a-objetos-e-APIs/tree/main/2-%20Python%20orienta%C3%A7%C3%A3o%20a%20objetos)
-- 📝 [Primeira aplicação com python](https://github.com/Kauanrodrigues01/Python-orientado-a-objetos-e-APIs/tree/main/1-%20Python%20crie%20suas%20primeiras%20aplica%C3%A7%C3%B5es)
 - 📊 [Leitura de planilhas com python](https://github.com/Kauanrodrigues01/Python-orientado-a-objetos-e-APIs/tree/main/Planilhas%20no%20python)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Projetos Criados em HTML, CSS e Javascript
