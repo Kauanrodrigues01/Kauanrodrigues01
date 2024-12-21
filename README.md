@@ -10,14 +10,29 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauanrodrigues01&exclude_repo=Projetos-cursos-CSS,Projeto-Culturama,Projeto-WaveCast,Projeto-AluraPlay,Responsividade-com-Mobile-First,Python-cursos,OBI,validando-formularios-no-JS,Django-S3-crud,Django-Formularios-Autenticacao-Alertas,Django-Persistencia-Admin,Django-Templates-Boas-Praticas,urso-drf-ecommerce,curso-drf-ecommerce&layout=compact&langs_count=7&theme=react"/>
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> **Linguagens e Frameworks que estou aprendendo:** 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> **Tecnologias e Ferramentas:** 
+<img src="https://skillicons.dev/icons?i=python,django&theme=dark" alt="Python e Django" />
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,postgres,mysql,html,css,sass,bootstrap,js&perline=13)](#)
+### **Banco de Dados e Cache**
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" alt="PostgreSQL, MySQL e Redis" />
+
+
+### **Infraestrutura e DevOps**
+<img src="https://skillicons.dev/icons?i=docker,nginx,aws,linux&theme=dark" alt="Docker, Nginx, AWS e Linux" />
+
+
+### **Controle de Versão e Testes**
+<img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" alt="Git, GitHub e Postman" />
+
+
+### **Front-End**
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js&theme=dark" alt="HTML, CSS, Sass, Bootstrap e JavaScript" />
+
+
 
 ## Aplicações em Python e Django 🐍 
 
 - ✏️ [Teacherhunt - API de plataforma de aulas particulares](https://github.com/Kauanrodrigues01/projeto-teacherhunt)
-- 🏋️ [Gym-system - Sistema de gestão de alunos para academia](https://github.com/Kauanrodrigues01/gym-system)
 - 👨‍🍳 [Blog de receitas - aplicação Django](https://github.com/Kauanrodrigues01/blog-receitas-django-fullstack)
 - 📖 [API de uma biblioteca- API RESTful usando DRF](https://github.com/Kauanrodrigues01/Django-library-api)
 - 🌌 [AluraSpace - aplicação usando Django](https://github.com/Kauanrodrigues01/Django-S3-crud)
