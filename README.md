@@ -1,32 +1,78 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=180&section=header&text=Kauanrodrigues01&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Kauan+Rodrigues+Lima;Sou+estudante+do+2º+ano;do+Curso+de+Desenvolvimento+de+Sistemas;)](https://git.io/typing-svg)
+<img src="./computer-illustration.png" alt="Ilustração de um Computador e Café" min-width="40%" max-width="40%" width="40%" align="right">
 
-<a href="https://www.instagram.com/kauan_mrl/" target="_blank" style="margin:auto">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
-<a href="maido:kauanrl09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<img width="30%" src="https://img.shields.io/static/v1?label=&message=Olá, me chamo Kauan Rodrigues&color=f8efd4&style=for-the-badge" alt="Static Badge for Github">
 
-<div style="flex: 1; flex-direction: row; width: 100%" align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauanRodrigues01&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauanrodrigues01&exclude_repo=Projetos-cursos-CSS,Projeto-Culturama,Projeto-WaveCast,Projeto-AluraPlay,Responsividade-com-Mobile-First,Python-cursos,OBI,validando-formularios-no-JS,Django-S3-crud,Django-Formularios-Autenticacao-Alertas,Django-Persistencia-Admin,Django-Templates-Boas-Praticas,urso-drf-ecommerce,curso-drf-ecommerce&layout=compact&langs_count=7&theme=react"/>
-</div>
+#### Sou desenvolvedor full-stack com Django
+>- 🎓 Estudante de Desenvolvimento de Sistemas
+>- 🤔 Aprendendo novas tecnologias e desenvolvendo aplicações.
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> **Tecnologias e Ferramentas:** 
-<img src="https://skillicons.dev/icons?i=python,django&theme=dark" alt="Python e Django" />
+### Conecte-se comigo
 
-### **Banco de Dados e Cache**
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" alt="PostgreSQL, MySQL e Redis" />
+<p align="left">
+  <a href="https://www.instagram.com/kauan_mrl/" target="_blank" rel="noreferrer" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="mailto:kauanrl09@gmail.com" target="_blank" rel="noreferrer" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=square&labelColor=FF0000&logo=gmail&logoColor=white&link=kauanrl09@gmail.com" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kauan-rodrigues-lima-727486321/" target="_blank" rel="noreferrer" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauan-rodrigues-lima-727486321/" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Kauanrodrigues01" title="Kauanrodrigues01" target="_blank" rel="noreferrer" style="text-decoration: none">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Kauanrodrigues01?label=follow&style=social">
+  </a>
+</p>
 
+<br><br>
 
-### **Infraestrutura e DevOps**
-<img src="https://skillicons.dev/icons?i=docker,nginx,aws,linux&theme=dark" alt="Docker, Nginx, AWS e Linux" />
+<table align="center">
+  <th align="left">
+    <h3>Developer</h3>
+  </th>
+  <th align="left">
+    <h3>GitHub Stats</h3>
+  </th>
+  <tr>
+    <td width="50%">
+      <h3>Backend</h3>
+      <p align="left">
+        <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none">
+          <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,redis&theme=dark" alt="Python, Django, PostgreSQL, MySQL e Redis"/>
+        </a>⠀
+      </p>
+      <h3>Frontend</h3>
+      <p align="left">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none">
+          <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js&theme=dark" alt="HTML, CSS, Sass, Bootstrap e JavaScript" />
+        </a>⠀
+      </p>
+      <h3>Cloud & DevOps</h3>
+      <p align="left">
+        <a href="https://www.docker.com" target="_blank" rel="noreferrer" style="text-decoration: none">
+          <img src="https://skillicons.dev/icons?i=docker,nginx,aws,linux,git,github&theme=dark" alt="Docker, Nginx, AWS, Linux, Git e GitHub"/>
+        </a>⠀
+      </p>
+      <h3>Tools and Applications</h3>
+      <p align="left">
+        <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer" style="text-decoration: none">
+          <img src="https://skillicons.dev/icons?i=vscode,postman&theme=dark" alt="VSCode e Postman"/>
+        </a>
+      </p>
+      <br><br>
+    </td>
+    <td width="50%">
+      <p align="center">
+        <img width="90%" src="https://github-readme-stats.vercel.app/api?username=KauanRodrigues01&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="ilustração do status do github"/>
+      </p>
+      <p align="center">
+        <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauanrodrigues01&exclude_repo=Projetos-cursos-CSS,Projeto-Culturama,Projeto-WaveCast,Projeto-AluraPlay,Responsividade-com-Mobile-First,Python-cursos,OBI,validando-formularios-no-JS,Django-S3-crud,Django-Formularios-Autenticacao-Alertas,Django-Persistencia-Admin,Django-Templates-Boas-Praticas,urso-drf-ecommerce,curso-drf-ecommerce&layout=compact&langs_count=7&theme=react" alt="Github Stats"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
-
-### **Controle de Versão e Testes**
-<img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" alt="Git, GitHub e Postman" />
-
-
-### **Front-End**
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js&theme=dark" alt="HTML, CSS, Sass, Bootstrap e JavaScript" />
 
 
 
