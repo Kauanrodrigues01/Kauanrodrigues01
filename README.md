@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=180&section=header&text=Kauanrodrigues01&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-<img src="./computer-illustration.png" alt="Ilustração de um Computador e Café" min-width="40%" max-width="40%" width="40%" align="right">
+<img src="./images/computer-illustration.png" alt="Ilustração de um Computador e Café" min-width="40%" max-width="40%" width="40%" align="right">
 
 <img width="30%" src="https://img.shields.io/static/v1?label=&message=Olá, me chamo Kauan Rodrigues&color=f8efd4&style=for-the-badge" alt="Static Badge for Github">
 
