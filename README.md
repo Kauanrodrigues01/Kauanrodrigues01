@@ -70,6 +70,7 @@
 
 ## Aplicações em Python e Django 🐍 
 
+- 🏷️ [Sistema de Gestão de Estoque (SGE) - Integrado com IA e WhatsApp](https://github.com/Kauanrodrigues01/sge)
 - ✏️ [Teacherhunt - API de plataforma de aulas particulares](https://github.com/Kauanrodrigues01/projeto-teacherhunt)
 - 👨‍🍳 [Blog de receitas - aplicação Django](https://github.com/Kauanrodrigues01/blog-receitas-django-fullstack)
 - 📖 [API de uma biblioteca- API RESTful usando DRF](https://github.com/Kauanrodrigues01/Django-library-api)
