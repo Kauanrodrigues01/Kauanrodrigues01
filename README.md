@@ -38,27 +38,19 @@
     <td width="50%">
       <h3>Backend</h3>
       <p align="left">
-        <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none">
-          <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,redis&theme=dark" alt="Python, Django, PostgreSQL, MySQL e Redis"/>
-        </a>⠀
+        <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,redis&theme=dark" alt="Python, Django, PostgreSQL, MySQL e Redis"/>⠀
       </p>
       <h3>Frontend</h3>
       <p align="left">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none">
-          <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js&theme=dark" alt="HTML, CSS, Sass, Bootstrap e JavaScript" />
-        </a>⠀
+        <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js&theme=dark" alt="HTML, CSS, Sass, Bootstrap e JavaScript" />⠀
       </p>
       <h3>Cloud & DevOps</h3>
       <p align="left">
-        <a href="https://www.docker.com" target="_blank" rel="noreferrer" style="text-decoration: none">
-          <img src="https://skillicons.dev/icons?i=docker,nginx,aws,linux,git,github&theme=dark" alt="Docker, Nginx, AWS, Linux, Git e GitHub"/>
-        </a>⠀
+        <img src="https://skillicons.dev/icons?i=docker,nginx,aws,linux,git,github&theme=dark" alt="Docker, Nginx, AWS, Linux, Git e GitHub"/>
       </p>
       <h3>Tools and Applications</h3>
       <p align="left">
-        <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer" style="text-decoration: none">
-          <img src="https://skillicons.dev/icons?i=vscode,postman&theme=dark" alt="VSCode e Postman"/>
-        </a>
+        <img src="https://skillicons.dev/icons?i=vscode,postman&theme=dark" alt="VSCode e Postman"/>
       </p>
       <br><br>
     </td>
