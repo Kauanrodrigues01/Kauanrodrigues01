@@ -77,6 +77,11 @@
 - 🌌 [AluraSpace - aplicação usando Django](https://github.com/Kauanrodrigues01/Django-S3-crud)
 - 📊 [Leitura de planilhas com python](https://github.com/Kauanrodrigues01/Python-orientado-a-objetos-e-APIs/tree/main/Planilhas%20no%20python)
 
+## Integração de IA com LangChain 🦜
+- 📚 [Agents e tools usando langchain](https://github.com/Kauanrodrigues01/langchain-agents-tools)
+- 🌐 [Introdução ao LangChain](https://github.com/Kauanrodrigues01/Introduction_to_langchain)
+- 🔗 [Iniciando com a API do gemini](https://github.com/Kauanrodrigues01/gemini-integration-tests)
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Projetos Criados em HTML, CSS e Javascript
 
 #### Javascript 
@@ -85,11 +90,5 @@
 - 🗣️ [Jogo de reconhecimento de voz usando JS](https://reconhecimento-de-voz-javascript.vercel.app/)
 - 📝 [Fokus - lista de taferas usando localStorage no JS](https://fokus-projectjs.vercel.app/)
 - ✅️ [MoniBank - validação de formulário](https://validando-formularios-no-js.vercel.app/)
-
-#### html e css
-- 📚 [AluraBooks - mobile-first](https://kauanrodrigues01.github.io/Responsivade-com-Mobile-First/)
-- 🌐 [Culturama - praticando Grid e Flexbox](https://kauanrodrigues01.github.io/Praticando-Grid-e-Flexbox/)
-- 🎧 [WaveCast - usando Grid](https://kauanrodrigues01.github.io/Grid-construindo-layouts/)
-- 🎥 [AluraPlay - usando Flexbox](https://kauanrodrigues01.github.io/Flexbox-e-layaouts-responsivos/)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=130&section=footer&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
