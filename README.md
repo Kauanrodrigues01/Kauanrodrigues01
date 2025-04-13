@@ -65,10 +65,9 @@
   </tr>
 </table>
 
+<br>
 
-
-
-## Aplicações em Python e Django 🐍 
+## Aplicações Web em Python 🐍 
 
 - 🏷️ [Sistema de Gestão de Estoque (SGE) - Integrado com IA e WhatsApp](https://github.com/Kauanrodrigues01/sge)
 - ✏️ [Teacherhunt - API de plataforma de aulas particulares](https://github.com/Kauanrodrigues01/projeto-teacherhunt)
