@@ -74,6 +74,8 @@
 - ✏️ [Teacherhunt - API de plataforma de aulas particulares](https://github.com/Kauanrodrigues01/projeto-teacherhunt)
 - 🗳️ [Sistema Eleições Grêmio Estudantil - aplicação fullstack para a escola EEEP Adolfo Ferreira de Sousa](https://github.com/Kauanrodrigues01/sistema-eleicoes-gremio)
 - 📖 [Sistema Biblioteca AFS - aplicação fullstack para escola EEEP Adolfo Ferreira de Sousa](https://github.com/Kauanrodrigues01/sistema-biblioteca-afs)
+- 🍿  [Flix APP - aplicação web desenvolvida com streamlit](https://github.com/Kauanrodrigues01/flix-app)
+- 📽️ [Flix API - API para gerenciar um catálogo de filmes e avaliações](https://github.com/Kauanrodrigues01/flix-api)
 - 👨‍🍳 [Blog de receitas - aplicação fullstack](https://github.com/Kauanrodrigues01/blog-receitas-django-fullstack)
 - 🌌 [AluraSpace - aplicação fullstack](https://github.com/Kauanrodrigues01/Django-S3-crud)
 
