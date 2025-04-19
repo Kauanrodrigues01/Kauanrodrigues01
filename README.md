@@ -65,17 +65,18 @@
   </tr>
 </table>
 
+<br>
 
-
-
-## Aplicações em Python e Django 🐍 
+## Aplicações Web em Python 🐍 
 
 - 🏷️ [Sistema de Gestão de Estoque (SGE) - Integrado com IA e WhatsApp](https://github.com/Kauanrodrigues01/sge)
 - ✏️ [Teacherhunt - API de plataforma de aulas particulares](https://github.com/Kauanrodrigues01/projeto-teacherhunt)
-- 👨‍🍳 [Blog de receitas - aplicação Django](https://github.com/Kauanrodrigues01/blog-receitas-django-fullstack)
-- 📖 [API de uma biblioteca- API RESTful usando DRF](https://github.com/Kauanrodrigues01/Django-library-api)
-- 🌌 [AluraSpace - aplicação usando Django](https://github.com/Kauanrodrigues01/Django-S3-crud)
-- 📊 [Leitura de planilhas com python](https://github.com/Kauanrodrigues01/Python-orientado-a-objetos-e-APIs/tree/main/Planilhas%20no%20python)
+- 🗳️ [Sistema Eleições Grêmio Estudantil - aplicação fullstack para a escola EEEP Adolfo Ferreira de Sousa](https://github.com/Kauanrodrigues01/sistema-eleicoes-gremio)
+- 📖 [Sistema Biblioteca AFS - aplicação fullstack para escola EEEP Adolfo Ferreira de Sousa](https://github.com/Kauanrodrigues01/sistema-biblioteca-afs)
+- 🍿  [Flix APP - aplicação web desenvolvida com streamlit](https://github.com/Kauanrodrigues01/flix-app)
+- 📽️ [Flix API - API para gerenciar um catálogo de filmes e avaliações](https://github.com/Kauanrodrigues01/flix-api)
+- 👨‍🍳 [Blog de receitas - aplicação fullstack](https://github.com/Kauanrodrigues01/blog-receitas-django-fullstack)
+- 🌌 [AluraSpace - aplicação fullstack](https://github.com/Kauanrodrigues01/Django-S3-crud)
 
 ## Integração de IA com LangChain 🦜
 - 📚 [Agents e tools usando langchain](https://github.com/Kauanrodrigues01/langchain-agents-tools)
