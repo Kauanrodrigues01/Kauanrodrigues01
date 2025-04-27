@@ -38,7 +38,7 @@
     <td width="50%">
       <h3>Backend</h3>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,redis&theme=dark" alt="Python, Django, PostgreSQL, MySQL e Redis"/>⠀
+        <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,redis&theme=dark" alt="Python, Django, PostgreSQL, MySQL e Redis"/>⠀
       </p>
       <h3>Frontend</h3>
       <p align="left">
