@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=180&section=header&text=Kauanrodrigues01&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=100&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Kauan+Rodrigues+Lima;Sou+Técnico+em+Desenvolvimento+de+Sistemas;)](https://git.io/typing-svg)
 
 <img src="./images/computer-illustration.png" alt="Ilustração de um Computador e Café" min-width="40%" max-width="40%" width="40%" align="right">
-
-<img width="30%" src="https://img.shields.io/static/v1?label=&message=Olá, me chamo Kauan Rodrigues&color=f8efd4&style=for-the-badge" alt="Static Badge for Github">
 
 #### Sou desenvolvedor full-stack com Django
 >- 🎓 Estudante de Desenvolvimento de Sistemas
@@ -92,4 +92,4 @@
 - 📝 [Fokus - lista de taferas usando localStorage no JS](https://fokus-projectjs.vercel.app/)
 - ✅️ [MoniBank - validação de formulário](https://validando-formularios-no-js.vercel.app/)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=130&section=footer&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=100&section=footer&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
