@@ -4,7 +4,7 @@
 
 <img src="./images/computer-illustration.png" alt="Ilustração de um Computador e Café" min-width="40%" max-width="40%" width="40%" align="right">
 
-#### Sou desenvolvedor full-stack com Django
+#### Desenvolvedor Back-End 
 >- 🎓 Estudante de Desenvolvimento de Sistemas
 >- 🤔 Aprendendo novas tecnologias e desenvolvendo aplicações.
 
