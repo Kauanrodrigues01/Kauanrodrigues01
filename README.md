@@ -70,6 +70,7 @@
 ## Aplicações Web em Python 🐍 
 
 - 🏷️ [Sistema de Gestão de Estoque (SGE) - Integrado com IA e WhatsApp](https://github.com/Kauanrodrigues01/sge)
+- 💸 [Checkout com a API do Mercado Pago](https://github.com/Kauanrodrigues01/checkout-mercado-pago)
 - ✏️ [Teacherhunt - API de plataforma de aulas particulares](https://github.com/Kauanrodrigues01/projeto-teacherhunt)
 - 🗳️ [Sistema Eleições Grêmio Estudantil - aplicação fullstack para a escola EEEP Adolfo Ferreira de Sousa](https://github.com/Kauanrodrigues01/sistema-eleicoes-gremio)
 - 📖 [Sistema Biblioteca AFS - aplicação fullstack para escola EEEP Adolfo Ferreira de Sousa](https://github.com/Kauanrodrigues01/sistema-biblioteca-afs)
