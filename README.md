@@ -59,7 +59,7 @@
         <img width="90%" src="https://github-readme-stats.vercel.app/api?username=KauanRodrigues01&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="ilustração do status do github"/>
       </p>
       <p align="center">
-        <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauanrodrigues01&exclude_repo=Projetos-cursos-CSS,Projeto-Culturama,Projeto-WaveCast,Projeto-AluraPlay,Responsividade-com-Mobile-First,Python-cursos,OBI,validando-formularios-no-JS,Django-S3-crud,Django-Formularios-Autenticacao-Alertas,Django-Persistencia-Admin,Django-Templates-Boas-Praticas,urso-drf-ecommerce,curso-drf-ecommerce&layout=compact&langs_count=7&theme=react" alt="Github Stats"/>
+        <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauanrodrigues01&exclude_repo=Projetos-cursos-CSS,Projeto-Culturama,Projeto-WaveCast,Projeto-AluraPlay,Responsividade-com-Mobile-First,Python-cursos,OBI,validando-formularios-no-JS,Django-S3-crud,Django-Formularios-Autenticacao-Alertas,Django-Persistencia-Admin,Django-Templates-Boas-Praticas,urso-drf-ecommerce,curso-drf-ecommerce,go-fundamentals,prova-olegas&layout=compact&langs_count=7&theme=react" alt="Github Stats"/>
       </p>
     </td>
   </tr>
