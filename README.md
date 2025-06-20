@@ -82,7 +82,7 @@
 
 ## Integração de IA com LangChain 🦜
 - 📚 [Agents e tools usando langchain](https://github.com/Kauanrodrigues01/langchain-agents-tools)
-- 🌐 [Introdução ao LangChain](https://github.com/Kauanrodrigues01/Introduction_to_langchain)
+- 🌐 [Introdução ao LangChain](https://github.com/Kauanrodrigues01/Introduction-to-langchain-with-gemini)
 - 🔗 [Iniciando com a API do gemini](https://github.com/Kauanrodrigues01/gemini-integration)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Projetos Criados em HTML, CSS e Javascript
