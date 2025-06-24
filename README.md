@@ -59,7 +59,7 @@
         <img width="90%" src="https://github-readme-stats.vercel.app/api?username=KauanRodrigues01&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="ilustração do status do github"/>
       </p>
       <p align="center">
-        <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauanrodrigues01&exclude_repo=Projetos-cursos-CSS,Projeto-Culturama,Projeto-WaveCast,Projeto-AluraPlay,Responsividade-com-Mobile-First,Python-cursos,OBI,validando-formularios-no-JS,Django-S3-crud,Django-Formularios-Autenticacao-Alertas,Django-Persistencia-Admin,Django-Templates-Boas-Praticas,urso-drf-ecommerce,curso-drf-ecommerce&layout=compact&langs_count=7&theme=react" alt="Github Stats"/>
+        <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauanrodrigues01&exclude_repo=Projetos-cursos-CSS,Projeto-Culturama,Projeto-WaveCast,Projeto-AluraPlay,Responsividade-com-Mobile-First,Python-cursos,OBI,validando-formularios-no-JS,Django-S3-crud,Django-Formularios-Autenticacao-Alertas,Django-Persistencia-Admin,Django-Templates-Boas-Praticas,urso-drf-ecommerce,curso-drf-ecommerce,go-fundamentals,prova-olegas&layout=compact&langs_count=7&theme=react" alt="Github Stats"/>
       </p>
     </td>
   </tr>
@@ -74,15 +74,19 @@
 - ✏️ [Teacherhunt - API de plataforma de aulas particulares](https://github.com/Kauanrodrigues01/projeto-teacherhunt)
 - 🗳️ [Sistema Eleições Grêmio Estudantil - aplicação fullstack para a escola EEEP Adolfo Ferreira de Sousa](https://github.com/Kauanrodrigues01/sistema-eleicoes-gremio)
 - 📖 [Sistema Biblioteca AFS - aplicação fullstack para escola EEEP Adolfo Ferreira de Sousa](https://github.com/Kauanrodrigues01/sistema-biblioteca-afs)
+- 🕸️ [Web Scrapping Olx](https://github.com/Kauanrodrigues01/web-scrapper-olx)
 - 🍿  [Flix APP - aplicação web desenvolvida com streamlit](https://github.com/Kauanrodrigues01/flix-app)
 - 📽️ [Flix API - API para gerenciar um catálogo de filmes e avaliações](https://github.com/Kauanrodrigues01/flix-api)
 - 👨‍🍳 [Blog de receitas - aplicação fullstack](https://github.com/Kauanrodrigues01/blog-receitas-django-fullstack)
 - 🌌 [AluraSpace - aplicação fullstack](https://github.com/Kauanrodrigues01/Django-S3-crud)
 
 ## Integração de IA com LangChain 🦜
+- 🧠 [RAG com LangChain](https://github.com/Kauanrodrigues01/RAG-with-langchain)
 - 📚 [Agents e tools usando langchain](https://github.com/Kauanrodrigues01/langchain-agents-tools)
-- 🌐 [Introdução ao LangChain](https://github.com/Kauanrodrigues01/Introduction_to_langchain)
-- 🔗 [Iniciando com a API do gemini](https://github.com/Kauanrodrigues01/gemini-integration-tests)
+- 🔗 [Introdução ao LangChain com a OpenAI](https://github.com/Kauanrodrigues01/Introduction-to-langchain-with-openai)
+- 🔗 [Introdução ao LangChain com o Gemini](https://github.com/Kauanrodrigues01/Introduction-to-langchain-with-gemini)
+- 🌐 [Iniciando com a API da OpenAI](https://github.com/Kauanrodrigues01/openai-integration)
+- 🌐 [Iniciando com a API do gemini](https://github.com/Kauanrodrigues01/gemini-integration)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Projetos Criados em HTML, CSS e Javascript
 
