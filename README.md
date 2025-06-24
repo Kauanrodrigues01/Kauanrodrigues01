@@ -81,6 +81,7 @@
 - 🌌 [AluraSpace - aplicação fullstack](https://github.com/Kauanrodrigues01/Django-S3-crud)
 
 ## Integração de IA com LangChain 🦜
+- 🧠 [RAG com LangChain](https://github.com/Kauanrodrigues01/RAG-with-langchain)
 - 📚 [Agents e tools usando langchain](https://github.com/Kauanrodrigues01/langchain-agents-tools)
 - 🔗 [Introdução ao LangChain com a OpenAI](https://github.com/Kauanrodrigues01/Introduction-to-langchain-with-openai)
 - 🔗 [Introdução ao LangChain com o Gemini](https://github.com/Kauanrodrigues01/Introduction-to-langchain-with-gemini)
