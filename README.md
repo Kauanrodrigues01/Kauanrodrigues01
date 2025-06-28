@@ -81,12 +81,13 @@
 - 🌌 [AluraSpace - aplicação fullstack](https://github.com/Kauanrodrigues01/Django-S3-crud)
 
 ## Integração de IA com LangChain 🦜
+- 🤖 [Stock GPT - Agente de Estoque integrado a um DB](https://github.com/Kauanrodrigues01/stock-agent)
 - 🧠 [RAG com LangChain](https://github.com/Kauanrodrigues01/RAG-with-langchain)
 - 📚 [Agents e tools usando langchain](https://github.com/Kauanrodrigues01/langchain-agents-tools)
 - 🔗 [Introdução ao LangChain com a OpenAI](https://github.com/Kauanrodrigues01/Introduction-to-langchain-with-openai)
 - 🔗 [Introdução ao LangChain com o Gemini](https://github.com/Kauanrodrigues01/Introduction-to-langchain-with-gemini)
 - 🌐 [Iniciando com a API da OpenAI](https://github.com/Kauanrodrigues01/openai-integration)
-- 🌐 [Iniciando com a API do gemini](https://github.com/Kauanrodrigues01/gemini-integration)
+- 🌐 [Iniciando com a API do Gemini](https://github.com/Kauanrodrigues01/gemini-integration)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Projetos Criados em HTML, CSS e Javascript
 
