@@ -38,7 +38,11 @@
     <td width="50%">
       <h3>Backend</h3>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,redis&theme=dark" alt="Python, Django, PostgreSQL, MySQL e Redis"/>⠀
+        <img src="https://skillicons.dev/icons?i=python,django,fastapi,javascript,typescript,nestjs,prisma&theme=dark" alt="Python, Django, FastAPI, JavaScript, TypeScript, Nestjs e PrismaORM"/>⠀
+      </p>
+      <h3>Banco de dados Relacionais e Não relacionais</h3>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" alt="PostgreSQL, MySQL e Redis"/>⠀
       </p>
       <h3>Frontend</h3>
       <p align="left">
