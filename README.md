@@ -85,6 +85,7 @@
 - 🌌 [AluraSpace - aplicação fullstack](https://github.com/Kauanrodrigues01/Django-S3-crud)
 
 ## Integração de IA com LangChain 🦜
+- 🤖 [Chatbot RAG PDF - Agente de IA alimentado com dados de PDFs usando RAG](https://github.com/Kauanrodrigues01/chatbot-rag-pdf)
 - 🤖 [Stock GPT - Agente de Estoque integrado a um DB](https://github.com/Kauanrodrigues01/stock-agent)
 - 🧠 [RAG com LangChain](https://github.com/Kauanrodrigues01/RAG-with-langchain)
 - 📚 [Agents e tools usando langchain](https://github.com/Kauanrodrigues01/langchain-agents-tools)
